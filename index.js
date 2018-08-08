@@ -11,7 +11,7 @@ function scuberGreetingForFeet(ride) {
 }
 
 function ternaryCheckCity(){
-  var city = (city == "nyc") ? "Ok, sounds good.": "The city is not nyc!";
+  var city = (city == "nyc") ? "Ok, sounds good.": "No, go.";
   
   
 }
