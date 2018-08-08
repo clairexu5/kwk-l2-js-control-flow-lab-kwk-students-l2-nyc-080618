@@ -11,5 +11,5 @@ function scuberGreetingForFeet(ride) {
 }
 
 function ternaryCheckCity(){
-  var 
+  var city = 
 }
