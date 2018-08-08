@@ -11,5 +11,5 @@ function scuberGreetingForFeet(ride) {
 }
 
 function ternaryCheckCity(){
-  var city = (city = nyc)
+  var city = (city = nyc) ? 
 }
